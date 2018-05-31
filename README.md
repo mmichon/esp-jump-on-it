@@ -1,6 +1,6 @@
 # Mini Jump/Social Bicycles Display
 
-![Hardware](screenshot.jpg?raw=true)
+![Hardware](screenshot.jpg?raw=true =300x)
 
 This project implements a tiny display that shows the distance to (in minutes it'll take to walk), and charge level of, the nearest two Jump Bike / Social Bicycles bikes. It measures 1" x 1" and costs <$10USD.
 
