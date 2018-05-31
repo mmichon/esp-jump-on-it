@@ -1,11 +1,11 @@
-#include <Adafruit_GFX.h>     // pio lib install 13
-#include <Adafruit_SSD1306.h> // git clone https://github.com/mcauser/Adafruit_SSD1306/tree/esp8266-64x48 lib
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
 #include <Arduino.h>
 #include <ArduinoJson.h>
 #include <ESP8266WiFi.h>
 #include <SPI.h>
 #include <WiFiClientSecure.h>
-#include <WiFiManager.h> // pio lib install 567
+#include <WiFiManager.h>
 #include <Wire.h>
 
 #include "config.h"
